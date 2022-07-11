@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="67" viewBox="0 0 67 67">
+  <defs>
+    <filter id="Ellipse_1273" x="0" y="0" width="67" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_81909" data-name="Group 81909" transform="translate(12 9)" opacity="0.5">
+    <rect id="Rectangle_24806" data-name="Rectangle 24806" width="49" height="49" fill="#fff" opacity="0"/>
+    <g transform="matrix(1, 0, 0, 1, -12, -9)" filter="url(#Ellipse_1273)">
+      <circle id="Ellipse_1273-2" data-name="Ellipse 1273" cx="24.5" cy="24.5" r="24.5" transform="translate(12 9)" fill="#fff"/>
+    </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.969,19.879,26.329,9.528a1.957,1.957,0,0,0-2.771-2.763L11.82,18.493a1.953,1.953,0,0,0-.057,2.7L23.549,33a1.957,1.957,0,0,0,2.771-2.763Z" transform="translate(5.096 4.805)" fill="#0d0d0c"/>
+  </g>
+</svg>
